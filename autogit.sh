@@ -1,7 +1,4 @@
-git init
 git add -A
-git commit -m "Actual Step: building my app Chalice | Next Step: Build and Run Locally"
-git branch -M master
-git remote add origin https://github.com/CarlosViniMSouza/Chalice-App-Test.git
-git push -u origin master
+git commit -m "Actual Step: Build and Run Locally | Next Step: Building a Serverless SMS Sender Service"
+git push
 git status
