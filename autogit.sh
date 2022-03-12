@@ -1,4 +1,4 @@
 git add -A
-git commit -m "Actual Step: Deploy on AWS Lambda | Next Step: Refactoring"
+git commit -m "Project concluded"
 git push
 git status
