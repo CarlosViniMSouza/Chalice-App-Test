@@ -1,6 +1,6 @@
 ![logo-article](https://files.realpython.com/media/Building-Server-less-Apps-in-Python-for-AWS-Lambda_Watermarked.6db2342b6524.jpg)
 
-## Building Serverless Python Apps Using AWS Chalice
+## [Building Serverless Python Apps Using AWS Chalice](https://realpython.com/aws-chalice-serverless-python/)
 
 ### by [Saurabh Sharma](https://realpython.com/aws-chalice-serverless-python/#author)
 
